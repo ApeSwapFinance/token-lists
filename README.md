@@ -1,2 +1,1 @@
-# token-lists
-Ape Swaps token lists
+# Ape Swap Token Lists
